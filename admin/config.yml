@@ -7,8 +7,8 @@ backend:
 
 # publish_mode: editorial_workflow
 # show_preview_links: true
-display_url: https://yoursite.netlify.app
-logo_url: https://yoursite.netlify.app/uploads/editor.jpg
+display_url: https://korean-recipes.netlify.app
+logo_url: https://korean-recipes.netlify.app/uploads/editor.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
