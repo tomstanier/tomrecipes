@@ -2,7 +2,7 @@
 # SITE CONFIGURATION
 url: "foodfortheseoul.netlify.app"   #change this to yours
 repository: tomstanier/tomrecipes
-title: Traditional Korean Recipes
+title: Food For The Seoul
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://korean-recipes.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
