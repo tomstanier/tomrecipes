@@ -2,13 +2,13 @@ backend:
   name: github
   repo: tomstanier/tomrecipes # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: korean-recipes.netlify.app #Your site on netlify
+  site_domain: foodfortheseoul.netlify.app #Your site on netlify
   use_graphql: true
 
 # publish_mode: editorial_workflow
 # show_preview_links: true
-display_url: https://korean-recipes.netlify.app
-logo_url: https://korean-recipes.netlify.app/uploads/editor.jpg
+display_url: https://foodfortheseoul.netlify.app
+logo_url: https://foodfortheseoul.netlify.app/uploads/editor.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
