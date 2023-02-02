@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://korean-recipes.netlify.app"   #change this to yours
+url: "foodfortheseoul.netlify.app"   #change this to yours
 repository: tomstanier/tomrecipes
 title: Traditional Korean Recipes
 recipemenu: false # you can change to true and a menu of all recipes will appear
