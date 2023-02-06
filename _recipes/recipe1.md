@@ -7,7 +7,7 @@ published: true
 ---
 This delicious bulgogi chicken is a Korean-style dish that is sure to tantalise your taste buds. It is made with marinated chicken that is cooked in a sweet and savoury sauce. The marinade is made with a combination of soy sauce, garlic, ginger, and sesame oil, giving the chicken a unique flavour. The chicken is then cooked in a hot skillet until it is golden brown and crispy. Serve this dish with steamed rice and a side of kimchi for a complete meal.
 
-![An AI generated Korean Illustration of Bulgogi Chicken, depicting it on a plate, adorned with various sliced vegetables. ](../uploads/dall·e-2023-02-06-21.38.25-a-traditional-korean-painting-of-bulgogi-chicken.png "Traditional Korean Illustration of Bulgogi Chicken (Dall-E 2) ")
+![An AI generated Korean Illustration of Bulgogi Chicken, depicting it on a plate, adorned with various sliced vegetables. ](../uploads/dall·e-2023-02-06-21.38.25-a-traditional-korean-painting-of-bulgogi-chicken.png "Illustration of Bulgogi Chicken (Dall-E 2) ")
 
 ## H﻿istory:
 
@@ -15,11 +15,11 @@ Bulgogi chicken is a popular Korean dish that has a long and rich cultural histo
 
 Bulgogi is a combination of two words: “bul” meaning fire, and “gogi” meaning meat. The dish is traditionally made with thinly sliced beef that is marinated in a mixture of soy sauce, sesame oil, garlic, sugar, and other seasonings. The marinated beef is then grilled over an open flame, giving it a unique smoky flavour.
 
-## Health Benefits: 
+## Health Benefits:
 
 The marinade used to make bulgogi chicken is made with a variety of healthy ingredients, including soy sauce, sesame oil, garlic, ginger, and other spices. These ingredients provide a variety of vitamins and minerals, as well as antioxidants that can help protect against disease. The marinade also helps to tenderise the chicken, making it easier to digest.
 
-## Ingredients: 
+## Ingredients:
 
 * 2 lbs boneless, skinless chicken thighs 
 * 1/4 cup soy sauce 
@@ -34,7 +34,7 @@ The marinade used to make bulgogi chicken is made with a variety of healthy ingr
 * 2 green onions, thinly sliced 
 * Sesame seeds, for garnish 
 
-## Instructions: 
+## Instructions:
 
 1. In a large bowl, combine the soy sauce, sesame oil, honey, brown sugar, garlic, ginger, rice wine vinegar, black pepper, and red pepper flakes. 
 2. Add the chicken thighs to the marinade and toss to coat. Cover and refrigerate for at least 1 hour, or up to overnight. 
