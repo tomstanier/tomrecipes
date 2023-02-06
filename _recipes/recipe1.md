@@ -1,46 +1,46 @@
 ---
-layout: recipe
-title: Some recipe
+title: "Traditional Bulgogi Chicken "
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+This delicious bulgogi chicken is a Korean-style dish that is sure to tantalise your taste buds. It is made with marinated chicken that is cooked in a sweet and savoury sauce. The marinade is made with a combination of soy sauce, garlic, ginger, and sesame oil, giving the chicken a unique flavour. The chicken is then cooked in a hot skillet until it is golden brown and crispy. Serve this dish with steamed rice and a side of kimchi for a complete meal.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+![An AI generated Korean Illustration of Bulgogi Chicken, depicting it on a plate, adorned with various sliced vegetables. ](../uploads/dall·e-2023-02-06-21.38.25-a-traditional-korean-painting-of-bulgogi-chicken.png "Traditional Korean Illustration of Bulgogi Chicken (Dall-E 2) ")
 
+## H﻿istory:
 
-## Ingredients
+Bulgogi chicken is a popular Korean dish that has a long and rich cultural history. The dish is believed to have originated in the Goguryeo period (37 BC-668 AD), when it was known as maekjeok. Maekjeok was a dish of marinated beef that was grilled over an open flame. Over time, the dish evolved and eventually became known as bulgogi.
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
+Bulgogi is a combination of two words: “bul” meaning fire, and “gogi” meaning meat. The dish is traditionally made with thinly sliced beef that is marinated in a mixture of soy sauce, sesame oil, garlic, sugar, and other seasonings. The marinated beef is then grilled over an open flame, giving it a unique smoky flavour.
 
+## Health Benefits: 
 
-## Method
+The marinade used to make bulgogi chicken is made with a variety of healthy ingredients, including soy sauce, sesame oil, garlic, ginger, and other spices. These ingredients provide a variety of vitamins and minerals, as well as antioxidants that can help protect against disease. The marinade also helps to tenderise the chicken, making it easier to digest.
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+## Ingredients: 
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
+* 2 lbs boneless, skinless chicken thighs 
+* 1/4 cup soy sauce 
+* 2 tablespoons sesame oil 
+* 2 tablespoons honey 
+* 2 tablespoons brown sugar 
+* 2 tablespoons minced garlic 
+* 2 tablespoons minced ginger 
+* 2 tablespoons rice wine vinegar 
+* 1 teaspoon black pepper 
+* 1/4 teaspoon red pepper flakes 
+* 2 green onions, thinly sliced 
+* Sesame seeds, for garnish 
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
+## Instructions: 
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
+1. In a large bowl, combine the soy sauce, sesame oil, honey, brown sugar, garlic, ginger, rice wine vinegar, black pepper, and red pepper flakes. 
+2. Add the chicken thighs to the marinade and toss to coat. Cover and refrigerate for at least 1 hour, or up to overnight. 
+3. Preheat a grill or grill pan to medium-high heat. 
+4. Grill the chicken for 4-5 minutes per side, or until cooked through. 
+5. Transfer the chicken to a serving platter and garnish with green onions and sesame seeds. Serve immediately.
 
-- Serves: 6
-- Preparation time: 1 hour
+* S﻿erves: 2  
+* Cooking Time: 20 minutes, 1 hour minimum for marination.
