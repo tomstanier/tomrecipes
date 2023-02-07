@@ -8,15 +8,15 @@ Tteokbokki is a classic Korean dish that is sure to please. This recipe for Tteo
 
 ![An AI generated Korean Illustration of Tteokbokki, depicting it on a plate, adorned with various sliced vegetables. ](../uploads/dall·e-2023-02-07-12.40.35-a-detailed-korean-traditional-painting-of-tteokbokki.png "Illustration of Tteokbokki (Dall-E 2) ")
 
-## History
+## History:
 
 Tteokbokki is a popular Korean dish that has been around for centuries. It is believed to have originated in the Joseon Dynasty (1392-1897) and was originally served as a royal court cuisine. The dish was made with rice cakes, vegetables, and anchovy broth. Over time, the recipe evolved to include more ingredients such as gochujang (Korean chili paste), fish cakes, and boiled eggs. Today, tteokbokki is a beloved street food in Korea and can be found in many restaurants around the world.
 
-## Health Benefits
+## Health Benefits:
 
 Tteokbokki is a healthy dish that provides many nutritional benefits. The main ingredient, rice cakes, are high in carbohydrates and provide energy for the body. The vegetables used in the dish are rich in vitamins and minerals that help boost immunity and keep your body healthy. Gochujang is also packed with antioxidants which can help reduce inflammation and improve digestion. 
 
-## Ingredients 
+## Ingredients:
 
 * 2 cups of short grain rice cake 
 * 1/2 cup of gochujang 
@@ -28,7 +28,7 @@ Tteokbokki is a healthy dish that provides many nutritional benefits. The main i
 * 2 tablespoons of soy sauce 
 * 2 boiled eggs (optional)
 
-## Instructions 
+## Instructions:
 
 1. Soak the rice cakes in cold water for 10 minutes until they become soft. Drain them afterwards.  
 2. Heat sesame oil in a large pan over medium heat. Add garlic, onion, carrots, fish cake, and stir fry for 3 minutes until vegetables are cooked through.  
