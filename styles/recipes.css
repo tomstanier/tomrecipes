@@ -1,7 +1,7 @@
 /*! CSS bare bones for recipes site */
 
  html {
-  font-family: sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -13,5 +13,36 @@
 }
 
 /* the rest is up to you */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+   font-family: 'Open Sans',serif;}
+
+body{ background-color: rgb(197, 122, 122);}
 
 
+h1{color:aliceblue;
+}
+
+h2{color:rgb(59, 11, 10);}
+
+main{
+  width: 60%;
+  max-width: 850px;
+  border:1px solid purple;
+  padding: 0 12px 0 12px;
+  margin:0 auto;
+background-color: white;}    
+
+  img{
+    width:50%;
+  float:right;}
+/* columns: 2;
+column-rule: 1px solid blue;} */
+ul{margin-left: 40px;}
+li{font-size:.8em;
+margin-bottom: 12px;}
+
+.caption{ float:right;
+width:60%;
+font-size: .8em;}
