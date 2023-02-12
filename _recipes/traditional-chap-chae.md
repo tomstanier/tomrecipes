@@ -1,5 +1,5 @@
 ---
-title: Traditional Chap Chae
+title: Traditional Japchae
 date: 2023-02-08T20:46:05.716Z
 order: 5
 layout: recipe
