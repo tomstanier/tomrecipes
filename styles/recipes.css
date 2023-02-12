@@ -1,5 +1,9 @@
 /*! CSS bare bones for recipes site */
 
+  @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
+
+
  html {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   -ms-text-size-adjust: 100%;
@@ -13,9 +17,10 @@
 }
 
 /* the rest is up to you */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 
 body{
+ 
    font-family: 'Reenie Beanie', cursive;}
 
 body{ background-color: rgb(255, 255, 255);}
