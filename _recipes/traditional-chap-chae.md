@@ -8,16 +8,15 @@ Japchae is a traditional Korean noodle dish that is both delicious and easy to m
 
 ![An AI generated Korean Illustration of Japchae, depicting it in a bowl, on top of an ornamental pattern.](../uploads/dall·e-2023-02-08-21.11.44-a-detailed-korean-traditional-painting-of-japchae.png "Illustration of Japchae (Dall-E 2)")
 
-## \
-History: 
+## History: 
 
 Japchae is a traditional Korean dish that dates back to the Joseon Dynasty (1392-1897). It is believed to have originated from the royal court of the dynasty, where it was served as a celebratory dish. Today it is a popular dish in Korea and can be found in many restaurants and homes. It is also served at special occasions such as weddings and holidays. Japchae has become an iconic Korean dish that symbolizes celebration and joy.
 
-## Health Benefits: 
+## Health Benefits:
 
 Japchae is a healthy dish that is packed with nutrients. The sweet potato noodles are high in fibre and provide essential vitamins and minerals. The vegetables provide additional vitamins, minerals, and antioxidants. The meat adds protein to the dish, making it a complete meal.
 
-## Ingredients: 
+## Ingredients:
 
 \-1 package of sweet potato noodles 
 
@@ -39,15 +38,12 @@ Japchae is a healthy dish that is packed with nutrients. The sweet potato noodle
 
 \-Optional: 1/2 pound of beef or chicken, cut into thin strips 
 
-## Instructions: 
+## Instructions:
 
-1) Soak the sweet potato noodles in warm water for 10 minutes until they are soft. Drain the water and set aside. 
-
-2) Heat the sesame oil in a large skillet over medium heat. Add the mushrooms, carrots, bell peppers, garlic, and optional meat to the skillet and cook for 5 minutes until the vegetables are tender. 
-
-3) Add the soy sauce, sugar, black pepper to the skillet and stir to combine all ingredients together. 
-
-4) Add the drained sweet potato noodles to the skillet and stir until all ingredients are evenly distributed throughout the noodles. Cook for an additional 5 minutes until everything is heated through. 
+1. Soak the sweet potato noodles in warm water for 10 minutes until they are soft. Drain the water and set aside. 
+2. Heat the sesame oil in a large skillet over medium heat. Add the mushrooms, carrots, bell peppers, garlic, and optional meat to the skillet and cook for 5 minutes until the vegetables are tender. 
+3. Add the soy sauce, sugar, black pepper to the skillet and stir to combine all ingredients together. 
+4. Add the drained sweet potato noodles to the skillet and stir until all ingredients are evenly distributed throughout the noodles. Cook for an additional 5 minutes until everything is heated through. 
 
 Serves: 4
 
