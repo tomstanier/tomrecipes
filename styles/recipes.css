@@ -1,7 +1,5 @@
 /*! CSS bare bones for recipes site */
 
-  /*! CSS bare bones for recipes site */
-
   @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
@@ -52,7 +50,9 @@ background-color: rgb(255, 161, 161);}
 
 img{
     width:50%;
-  float:right;}
+  float:right;
+  border: 5px solid black}
+ 
 /* columns: 2;
 column-rule: 1px solid blue;} */
 ul{margin-left: 20px;}
@@ -71,8 +71,10 @@ padding-block: 5px;
 font-family: 'Reenie Beanie', cursive;
 font-size: 12;}
 
+button{font-family: 'Reenie Beanie', cursive;}
 
 a:link    { color: rgb(0, 0, 0); text-decoration: none; }
 a:visited { color: rgb(0, 0, 0); text-decoration: none; }
 a:hover   { color: rgb(0, 0, 0); text-decoration: none; }
 a:active  { color: rgb(0, 0, 0); text-decoration: none; }
+
