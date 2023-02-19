@@ -1,6 +1,6 @@
 ---
 title: Food For The Seoul
-coverimage: ../uploads/untitled-design-1-.png
+coverimage: ../uploads/bookcover.jpg
 permalink: /
 layout: recipeshome
 published: true
