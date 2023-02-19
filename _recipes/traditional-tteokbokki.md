@@ -36,6 +36,5 @@ Tteokbokki is a healthy dish that provides many nutritional benefits. The main i
 4. Add drained rice cakes to the pan along with soy sauce and stir fry for 5 minutes until everything is evenly coated with sauce.  
 5. Serve tteokbokki hot with boiled eggs on top (optional). Enjoy!  
 
-S﻿erves: 2
-
-Cooking Time: 20 minutes
+* S﻿erves: 2
+* Cooking Time: 20 minutes
