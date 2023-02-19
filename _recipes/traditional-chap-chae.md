@@ -8,7 +8,7 @@ Japchae is a traditional Korean noodle dish that is both delicious and easy to m
 
 ![An AI generated Korean Illustration of Japchae, depicting it in a bowl, on top of an ornamental pattern.](../uploads/dall·e-2023-02-08-21.11.44-a-detailed-korean-traditional-painting-of-japchae.png "Illustration of Japchae (Dall-E 2)")
 
-## History: 
+## History:
 
 Japchae is a traditional Korean dish that dates back to the Joseon Dynasty (1392-1897). It is believed to have originated from the royal court of the dynasty, where it was served as a celebratory dish. Today it is a popular dish in Korea and can be found in many restaurants and homes. It is also served at special occasions such as weddings and holidays. Japchae has become an iconic Korean dish that symbolizes celebration and joy.
 
@@ -45,6 +45,5 @@ Japchae is a healthy dish that is packed with nutrients. The sweet potato noodle
 3. Add the soy sauce, sugar, black pepper to the skillet and stir to combine all ingredients together. 
 4. Add the drained sweet potato noodles to the skillet and stir until all ingredients are evenly distributed throughout the noodles. Cook for an additional 5 minutes until everything is heated through. 
 
-Serves: 4
-
-C﻿ooking Time: 20 minutes
+* Serves: 4
+* C﻿ooking Time: 20 minutes
