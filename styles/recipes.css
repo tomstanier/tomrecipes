@@ -6,8 +6,9 @@
 
 
 
+
 html {
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Amatic SC', cursive;
 -ms-text-size-adjust: 100%;
 -webkit-text-size-adjust: 100%;
 }
@@ -20,7 +21,7 @@ box-sizing: border-box;
 
 /* the rest is up to you */
 
-
+.recipeteaser
 body{
 
 font-family: 'Amatic SC', cursive;
@@ -117,11 +118,6 @@ position:center;
 margin: 10px;
 float:center;}
 
-nav a {
-  color: white;
-  text-decoration: none;
-}
-
 nav {
   background-color: rgb(251, 221, 166);
   display: block;
@@ -137,11 +133,59 @@ min-width: 120px;
 position:fixed;
 top:7em;
 left:0;
-z-index: 12;
+z-index: 12;}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.recipe-teaser{
+border:1px solid rgb(77, 35, 35);
+padding:1em;
+flex-basis: 300px;
+flex-grow:1;
+margin:1em;
+font-family: 'Amatic SC', cursive;
+}
+.list{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 
+@media screen and (max-width: 700px) {
+
+  nav {
+    margin:0;
+    position: static;
+    width:100%;
+    }
+    
+  nav ul {
+  font-size:1rem;
+  }
+  
+    main {
+    width: 100%;
+    }
+  
+    body {
+    background-color: white;
+    padding-top: 6em;
+  }
+  
+  
+  img {
+    float:none;
+    margin:0 auto;
+    width:100%;
+  }
+  }
+  
 a:link    { color: rgb(77, 35, 35); text-decoration: none; }
 a:visited { color: rgb(77, 35, 35); text-decoration: none; }
 a:hover   { color: rgb(122, 64, 64); text-decoration: none; }
 a:active  { color: rgb(77, 35, 35); text-decoration: none; }
+
