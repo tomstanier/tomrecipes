@@ -24,7 +24,7 @@ box-sizing: border-box;
 body{
 
 font-family: 'Amatic SC', cursive;
-font-size: 20px;
+font-size: 17px;
 color: rgb(77, 35, 35);
 }
 
@@ -40,6 +40,7 @@ padding-bottom: 5px;
 }
 
 
+
 .site-title{font-size:65px;}
 
 h2{color:rgb(77, 35, 35);
@@ -48,7 +49,7 @@ text-align: left;
 padding-top: 5px;
 padding-bottom: 5px;}
 
-.recipeshome header
+.site-title
 
 
 
@@ -64,10 +65,11 @@ main{
 width: 50%;
 max-width: 850px;
 overflow: auto;
-border:1px solid purple;
+border:1px solid rgb(77, 35, 35);
 margin:0 auto;
 background-color: rgb(251, 221, 166);
-padding: 8px;
+padding: 12px;
+padding-bottom: 3%;
 }    
 
 img{
@@ -80,10 +82,15 @@ margin: 15px;
 /* columns: 2;
 column-rule: 1px solid blue;} */
 ul{margin-left: 20px;
-margin-bottom: 30px;}
-li{font-size:.8em;
-margin-bottom: 12px;
-margin-left: 20px;}
+  line-height: 2;
+}
+
+ol{
+  margin-left: 20px;
+  line-height: 2;
+margin-bottom: 10px;}
+
+
 
 .branding{font-size: 40px;}
 
@@ -116,12 +123,16 @@ nav a {
 }
 
 nav {
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(251, 221, 166);
   display: block;
+  border:1px solid rgb(77, 35, 35);
   /* border: 1px solid red; */
   width: 15%;
   padding: 10px;
   margin: 0;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
 min-width: 120px;
 position:fixed;
 top:7em;
@@ -129,19 +140,6 @@ left:0;
 z-index: 12;
 }
 
-nav ul li {
-font-size: .9rem;
-}
-
-nav {
-  margin:0;
-  position: static;
-  width:100%;
-  }
-  
-  nav ul {
-  font-size:1rem;
-  }
 
 a:link    { color: rgb(77, 35, 35); text-decoration: none; }
 a:visited { color: rgb(77, 35, 35); text-decoration: none; }
