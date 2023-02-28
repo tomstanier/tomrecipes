@@ -29,7 +29,12 @@ font-size: 17px;
 color: rgb(77, 35, 35);
 }
 
-body{ background-color: rgb(255, 255, 255);}
+body{ background-image:url(https://png.pngtree.com/background/20210717/original/pngtree-minimalist-cream-pastel-floral-background-wallpaper-picture-image_1441632.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
 
 
 
@@ -50,17 +55,22 @@ text-align: left;
 padding-top: 5px;
 padding-bottom: 5px;}
 
-.site-title
 
 
 
-.recipeshome main p:first-of-type{
-
-color:rgb(0, 0, 0);
-margin: 15px;
 
 
+.recipeshome main p {
+  color:rgb(71, 26, 5);
+  font-size: 1.4em;
+
+  padding: 4px;
 }
+
+
+
+
+
 
 main{
 width: 50%;
@@ -123,11 +133,11 @@ nav {
   display: block;
   border:1px solid rgb(77, 35, 35);
   /* border: 1px solid red; */
-  width: 15%;
+  width: 20%;
   padding: 10px;
   margin: 0;
   text-align: left;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
 min-width: 120px;
 position:fixed;
@@ -135,13 +145,14 @@ top:7em;
 left:0;
 z-index: 12;}
 
+.recipehere{color: rgb(155, 94, 62);}
 nav a {
   color: white;
   text-decoration: none;
 }
 
 .recipe-teaser{
-border:1px solid rgb(77, 35, 35);
+border:1px solid rgb(163, 88, 45);
 padding:1em;
 flex-basis: 300px;
 flex-grow:1;
@@ -153,6 +164,7 @@ font-family: 'Amatic SC', cursive;
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
 
 
 @media screen and (max-width: 700px) {
@@ -169,6 +181,7 @@ font-family: 'Amatic SC', cursive;
   
     main {
     width: 100%;
+    padding-bottom: 8%;
     }
   
     body {
@@ -179,7 +192,7 @@ font-family: 'Amatic SC', cursive;
   
   img {
     float:none;
-    margin:0 auto;
+    margin:10px auto;
     width:100%;
   }
   }
