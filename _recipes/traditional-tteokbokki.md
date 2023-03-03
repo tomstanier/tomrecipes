@@ -4,7 +4,9 @@ date: 2023-02-07T12:17:31.633Z
 order: 3
 layout: recipe
 ---
-Tteokbokki is a classic Korean dish that is sure to please. This recipe for Tteokbokki is easy to make and full of flavour. It starts with a base of gochujang, a spicy red pepper paste, and is then combined with rice cakes, fish cakes, and vegetables. The result is a savory and spicy dish that will tantalise your taste buds. Serve it as an appetizer or as a main course with steamed rice. With this recipe, you can enjoy the delicious flavours of Tteokbokki in the comfort of your own home!
+Tteokbokki is a classic Korean dish that is sure to please. This recipe for Tteokbokki is easy to make and full of flavour. It starts with a base of gochujang, a spicy red pepper paste, and is then combined with rice cakes, fish cakes, and vegetables. 
+
+The result is a savory and spicy dish that will tantalise your taste buds. Serve it as an appetizer or as a main course with steamed rice. With this recipe, you can enjoy the delicious flavours of Tteokbokki in the comfort of your own home!
 
 ![An AI generated Korean Illustration of Tteokbokki, depicting it on a plate, adorned with various sliced vegetables. ](../uploads/dall·e-2023-02-07-12.40.35-a-detailed-korean-traditional-painting-of-tteokbokki.png "Illustration of Tteokbokki (Dall-E 2) ")
 
@@ -19,10 +21,10 @@ Tteokbokki is a healthy dish that provides many nutritional benefits. The main i
 ## Ingredients:
 
 * 2 cups of short grain rice cake 
-* 1/2 cup of gochujang 
-* 1/2 cup of fish cake 
-* 1/4 cup of onion 
-* 1/4 cup of carrots
+* ½ cup of gochujang 
+* ½ cup of fish cake 
+* ¼ cup of onion 
+* ¼ cup of carrots
 * 2 tablespoons of garlic 
 * 2 tablespoons of sesame oil 
 * 2 tablespoons of soy sauce 
