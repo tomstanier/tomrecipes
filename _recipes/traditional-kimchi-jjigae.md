@@ -4,7 +4,7 @@ date: 2023-02-08T20:19:53.088Z
 order: 4
 layout: recipe
 ---
-Kimchi-jjigae is a traditional Korean stew that is both flavorful and comforting. The combination of the spicy kimchi, savoury pork, and vegetables creates a delicious stew that can be enjoyed as a meal or side dish. 
+Kimchi-jjigae is a traditional Korean stew that is both flavourful and comforting. The combination of the spicy kimchi, savoury pork, and vegetables creates a delicious stew that can be enjoyed as a meal or side dish. 
 
 
 ![An AI generated Korean Illustration of Kimchi-jjigae, depicting it in a bowl, on a stripy. placemat. ](../uploads/dall·e-2023-02-08-20.36.25-a-detailed-korean-traditional-painting-of-kimchi-jjigae.png "Illustration of Kimchi-jjigae (Dall-E 2)")
