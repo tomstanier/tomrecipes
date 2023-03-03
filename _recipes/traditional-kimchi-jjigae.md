@@ -20,10 +20,10 @@ Kimchi-jjigae is a nutritious and flavourful dish that provides many health bene
 ## Ingredients: 
 
 * 2 cups of kimchi 
-* 1/2 cup of diced onion 
-* 1/2 cup of diced carrots 
-* 1/2 cup of diced zucchini 
-* 1/4 cup of gochujang (Korean red pepper paste) 
+* ½ cup of diced onion 
+* ½ cup of diced carrots 
+* ½ cup of diced zucchini 
+* ¼ cup of gochujang (Korean red pepper paste) 
 * 2 tablespoons of sesame oil 
 * 2 cloves of garlic, minced 
 * 1 teaspoon of ginger, minced 
