@@ -19,9 +19,12 @@ Bibimbap is a healthy dish that is packed with nutrients. It is high in protein,
 ## Ingredients:
 
 *  2 cups of cooked white rice 
-*  1/2 cup of cooked beef or pork 
-* 1/2 cup of cooked vegetables (such as carrots, mushrooms, spinach, and zucchini) 
-*  2 tablespoons of sesame oil - 2 tablespoons of soy sauce - 2 tablespoons of gochujang (Korean chili paste) - 2 tablespoons of sesame seeds 
+*  ½ cup of cooked beef or pork 
+*  ½ cup of cooked vegetables (such as carrots, mushrooms, spinach, and zucchini) 
+*  2 tablespoons of sesame oil 
+* 2 tablespoons of soy sauce 
+* 2 tablespoons of gochujang (Korean chili paste) 
+* 2 tablespoons of sesame seeds 
 * 2 tablespoons of chopped green onions 
 
 ## Instructions: 
