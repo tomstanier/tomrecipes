@@ -5,7 +5,9 @@ order: 1
 layout: recipe
 published: true
 ---
-This delicious bulgogi chicken is a Korean-style dish that is sure to tantalise your taste buds. It is made with marinated chicken that is cooked in a sweet and savoury sauce. The marinade is made with a combination of soy sauce, garlic, ginger, and sesame oil, giving the chicken a unique flavour. The chicken is then cooked in a hot skillet until it is golden brown and crispy. Serve this dish with steamed rice and a side of kimchi for a complete meal.
+This delicious bulgogi chicken is a Korean-style dish that is sure to tantalise your taste buds. It is made with marinated chicken that is cooked in a sweet and savoury sauce. 
+
+The marinade is made with a combination of soy sauce, garlic, ginger, and sesame oil, giving the chicken a unique flavour. The chicken is then cooked in a hot skillet until it is golden brown and crispy. Serve this dish with steamed rice and a side of kimchi for a complete meal.
 
 ![An AI generated Korean Illustration of Bulgogi Chicken, depicting it on a plate, adorned with various sliced vegetables. ](../uploads/dall·e-2023-02-06-21.38.25-a-traditional-korean-painting-of-bulgogi-chicken.png "Illustration of Bulgogi Chicken (Dall-E 2) ")
 
@@ -22,7 +24,7 @@ The marinade used to make bulgogi chicken is made with a variety of healthy ingr
 ## Ingredients:
 
 * 2 lbs boneless, skinless chicken thighs 
-* 1/4 cup soy sauce 
+* ¼ cup soy sauce 
 * 2 tablespoons sesame oil 
 * 2 tablespoons honey 
 * 2 tablespoons brown sugar 
@@ -30,7 +32,7 @@ The marinade used to make bulgogi chicken is made with a variety of healthy ingr
 * 2 tablespoons minced ginger 
 * 2 tablespoons rice wine vinegar 
 * 1 teaspoon black pepper 
-* 1/4 teaspoon red pepper flakes 
+* ¼ teaspoon red pepper flakes 
 * 2 green onions, thinly sliced 
 * Sesame seeds, for garnish 
 
