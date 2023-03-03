@@ -4,7 +4,9 @@ date: 2023-02-08T20:46:05.716Z
 order: 5
 layout: recipe
 ---
-Japchae is a traditional Korean noodle dish that is both delicious and easy to make. It's a great way to enjoy the flavours of Korea in your own home. The dish consists of thin sweet potato noodles, vegetables, and meat or seafood, all stir-fried together in a savoury sauce. The combination of flavours and textures makes this dish truly unique and enjoyable. It's perfect for a weeknight dinner or as an appetizer for a larger meal. With just a few simple ingredients, you can create an amazing dish that will have everyone asking for seconds!
+Japchae is a traditional Korean noodle dish that is both delicious and easy to make. It's a great way to enjoy the flavours of Korea in your own home. The dish consists of thin sweet potato noodles, vegetables, and meat or seafood, all stir-fried together in a savoury sauce. 
+
+The combination of flavours and textures makes this dish truly unique and enjoyable. It's perfect for a weeknight dinner or as an appetizer for a larger meal. With just a few simple ingredients, you can create an amazing dish that will have everyone asking for seconds!
 
 ![An AI generated Korean Illustration of Japchae, depicting it in a bowl, on top of an ornamental pattern.](../uploads/dall·e-2023-02-08-21.11.44-a-detailed-korean-traditional-painting-of-japchae.png "Illustration of Japchae (Dall-E 2)")
 
@@ -18,25 +20,25 @@ Japchae is a healthy dish that is packed with nutrients. The sweet potato noodle
 
 ## Ingredients:
 
-\-1 package of sweet potato noodles 
+-1 package of sweet potato noodles 
 
-\-1/2 cup of sliced mushrooms 
+-½ cup of sliced mushrooms 
 
-\-1/2 cup of sliced carrots -
+-½ cup of sliced carrots 
 
-\-1/2 cup of sliced bell peppers
+-½ cup of sliced bell peppers
 
-\-1/4 cup of soy sauce 
+-¼ cup of soy sauce 
 
-\-2 tablespoons of sesame oil 
+-2 tablespoons of sesame oil 
 
-\-1 tablespoon of sugar 
+-1 tablespoon of sugar 
 
-\-3 cloves of garlic, minced
+-3 cloves of garlic, minced
 
-\-1/4 teaspoon of ground black pepper 
+-¼ teaspoon of ground black pepper 
 
-\-Optional: 1/2 pound of beef or chicken, cut into thin strips 
+-Optional: ½ pound of beef or chicken, cut into thin strips 
 
 ## Instructions:
 
