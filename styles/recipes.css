@@ -39,6 +39,7 @@ body{ background-image:url(https://png.pngtree.com/background/20210717/original/
 
 
 h1{color:rgb(77, 35, 35);
+  
 font-family: 'Barrio', cursive;
 text-align: center;
 padding-top: 5px;
@@ -47,7 +48,9 @@ padding-bottom: 5px;
 
 
 
-.site-title{font-size:65px;}
+.site-title{font-size:65px;
+ 
+}
 
 h2{color:rgb(77, 35, 35);
 font-family: 'Barrio', cursive;
@@ -68,28 +71,24 @@ padding-bottom: 5px;}
 }
 
 
-
-
-
-
-main{
-width: 50%;
-max-width: 850px;
-overflow: auto;
-border:1px solid rgb(77, 35, 35);
-margin:0 auto;
-background-color: rgb(251, 221, 166);
-padding: 12px;
-padding-bottom: 3%;
-}    
-
 img{
   width:50%;
 float:right;
-border: 3px solid black;
+border: 3px solid rgb(77, 35, 35);
 margin: 15px;
 }
 
+
+main{
+  width: 50%;
+  max-width: 850px;
+  overflow: auto;
+  border:1px solid rgb(77, 35, 35);
+  margin:0 auto;
+  background-color: rgb(251, 221, 166);
+  padding: 12px;
+  padding-bottom: 3%;
+  }    
 /* columns: 2;
 column-rule: 1px solid blue;} */
 ul{margin-left: 20px;
@@ -189,6 +188,11 @@ font-family: 'Amatic SC', cursive;
     padding-top: 6em;
   }
   
+  .caption{ float:center;
+    width:60%;
+    font-size: .8em;
+    font-style: italic;
+    margin-right: 15px;}
   
   img {
     float:none;
