@@ -21,7 +21,7 @@ box-sizing: border-box;
 
 .recipeteaser
 body{
-
+line
 font-family: 'Amatic SC', cursive;
 font-size: 17px;
 color: rgb(77, 35, 35);
@@ -32,6 +32,9 @@ body{ background-image:url(https://png.pngtree.com/background/20210717/original/
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
+  padding: 8em 0;
+  line-height: 1.5;
+  font-size: 18px;
 }
 
 
@@ -130,7 +133,7 @@ nav {
   display: block;
   border:1px solid rgb(77, 35, 35);
   /* border: 1px solid red; */
-  width: 20%;
+  width: %;
   padding: 10px;
   margin: 0;
   text-align: left;
@@ -207,5 +210,4 @@ a:link    { color: rgb(77, 35, 35); text-decoration: none; }
 a:visited { color: rgb(77, 35, 35); text-decoration: none; }
 a:hover   { color: rgb(122, 64, 64); text-decoration: none; }
 a:active  { color: rgb(77, 35, 35); text-decoration: none; }
-
 
