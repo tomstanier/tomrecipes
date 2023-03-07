@@ -5,8 +5,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
 
 
-
-
 html {
 font-family: 'Amatic SC', cursive;
 -ms-text-size-adjust: 100%;
@@ -144,6 +142,10 @@ top:7em;
 left:0;
 z-index: 12;}
 
+nav ul{
+  list-style: none;
+}
+
 .recipehere{color: rgb(155, 94, 62);}
 nav a {
   color: white;
@@ -152,10 +154,10 @@ nav a {
 
 .recipe-teaser{
 border:1px solid rgb(163, 88, 45);
-padding:1em;
 flex-basis: 300px;
 flex-grow:1;
 margin:1em;
+padding:1em;
 font-family: 'Amatic SC', cursive;
 }
 .list{
@@ -180,7 +182,7 @@ font-family: 'Amatic SC', cursive;
   
     main {
     width: 100%;
-    padding-bottom: 8%;
+    padding:  2em;
     }
   
     body {
@@ -205,4 +207,5 @@ a:link    { color: rgb(77, 35, 35); text-decoration: none; }
 a:visited { color: rgb(77, 35, 35); text-decoration: none; }
 a:hover   { color: rgb(122, 64, 64); text-decoration: none; }
 a:active  { color: rgb(77, 35, 35); text-decoration: none; }
+
 
